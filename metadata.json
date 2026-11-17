@@ -1,0 +1,6 @@
+{
+  "name": "PICO PARK LAN",
+  "description": "Cross-platform co-op puzzle platformer inspired by Pico Park with Node.js WebSocket LAN multiplayer for PC and Mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
